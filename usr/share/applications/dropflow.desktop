@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Dropflow
+Comment=Drag-and-drop file management.
+Exec=python3 /usr/bin/dropflow.py
+Icon=dropflow
+Type=Application
+Terminal=false
+Categories=Utility;
